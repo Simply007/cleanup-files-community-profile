@@ -1,0 +1,7 @@
+author-email: devrel@kontent.ai
+author-name: kontent-ai-bot
+org: kontent-ai
+skip-repo:
+  - kontent-ai/.github
+  - kontent-ai/draft-js
+  - kontent-ai/delivery-sdk-ruby
